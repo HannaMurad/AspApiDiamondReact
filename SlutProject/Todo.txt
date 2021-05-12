@@ -1,0 +1,14 @@
+﻿
+TODO:
+
+
+follow bethany's pie shop and build first asp api courses
+
+
+DONE:
+
+2021-05-02
+
+add support for newtonsoft json serializer instead of the default serializer - it has better support and error handling
+add support for cores
+add EF nuget packages
